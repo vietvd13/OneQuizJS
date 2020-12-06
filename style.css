@@ -1,0 +1,15 @@
+.answers {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.answer {
+    display: block;
+    padding-top: 5px;
+}
+
+#result {
+    margin-top: 25px;
+    font-size: larger;
+    font-weight: 700;
+}
